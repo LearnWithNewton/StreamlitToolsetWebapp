@@ -69,6 +69,6 @@ Enjoy an efficient and user-friendly way to manage and work with prompts!
 
 **Author**: MD SARFARAZ 
 
-**GitHub**: [Your GitHub Profile](https://github.com/sarfarazit08)
+**GitHub**: [Your GitHub Profile](https://github.com/LearnWithNewton)
 
 **License**: [MIT License](LICENSE)
